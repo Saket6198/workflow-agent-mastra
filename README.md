@@ -4,7 +4,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 
-A powerful weather assistant and activity planner powered by Mastra and AI-SDK. This project demonstrates how to build AI workflows with agents, tools, and steps in Mastra.
+A powerful weather assistant and activity planner powered by Mastra and AI-SDK. 
 
 ![Screenshot 2025-06-18 195356](https://github.com/user-attachments/assets/e5e31dd2-0278-4923-bf13-a2de84b9f327)
 
