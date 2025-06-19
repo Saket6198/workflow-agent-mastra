@@ -1,4 +1,4 @@
-# Mastra Weather Workflow 🌦️
+# Mastra Workflow 🌦️
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D20.9.0-brightgreen.svg)](https://nodejs.org/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
