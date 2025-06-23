@@ -1,20 +1,26 @@
-# Mastra Workflow 🌦️
+# Mastra Workflow 
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D20.9.0-brightgreen.svg)](https://nodejs.org/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 
-A powerful weather assistant and activity planner powered by Mastra and AI-SDK. 
+An advanced AI-powered agent built with AI-SDK, designed to orchestrate complex workflows using a suite of integrated tools, step-by-step processes, and intelligent automation.
+
 
 ![Screenshot 2025-06-18 195356](https://github.com/user-attachments/assets/e5e31dd2-0278-4923-bf13-a2de84b9f327)
 
 ## ✨ Features
+- 🧩 Integrated Workflows: Seamlessly coordinate multi-step processes and automate tasks with AI-driven workflows
 
-- 🌡️ **Weather Forecasts**: Get accurate weather data for any location
-- 🏄‍♂️ **Activity Planning**: Receive tailored activity recommendations based on weather conditions
-- 🧠 **Intelligent Agent**: Interact with a helpful AI assistant for weather information
-- 🔧 **Custom Tools**: Extensible weather utilities built with Mastra's tool system
-- 🔄 **Workflow Management**: Orchestrate complex AI workflows with minimal code
+- 🛠️ Modular Tooling: Leverage a flexible suite of tools built with Mastra’s extensible system
+
+- 🤖 Intelligent Agent: Engage with a smart AI assistant capable of handling diverse queries and actions
+
+- 🔄 Automation Engine: Streamline operations by automating routine and complex tasks
+
+- ⚙️ Customizable Steps: Design and execute tailored step-by-step solutions for a wide range of scenarios
+
+
 
 ## 📋 Prerequisites
 
